@@ -27,18 +27,18 @@ All API requests are handled **server-side** to keep API keys secure. The applic
 
 
 
-project/
-│
-├── server.js # Backend server with API requests
-├── .env # API keys
-├── package.json # Project dependencies and scripts
-│
+BACKEND_2ASS/
+│     
 ├── public/
-│ ├── index.html # Frontend HTML
-│ ├── style.css # Simple responsive styling
-│ └── script.js # Frontend JS to fetch data from server
+│   │
+│   ├── index.html              # interface
+│   ├── style.css               # style
+│   └── script.js               # Frontend (fetch запросы)
 │
-└── README.md # This file
+├── .env                        # API key 
+├── service.js                  # Working with the API interface
+├── package.json
+└── README.md
 
 
 
