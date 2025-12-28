@@ -103,6 +103,8 @@ http://localhost:3000
 ---
 
 ## Screenshots
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/dcaed364-f98d-4994-b4ef-72dc5d82eb3e" />
+
 
 **Weather Example:**
 
