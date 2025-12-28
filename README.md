@@ -29,16 +29,16 @@ All API requests are handled **server-side** to keep API keys secure. The applic
 
 project/
 │
-├── server.js          # Backend server with API requests
-├── .env               # API keys
-├── package.json       # Project dependencies and scripts
+├── server.js # Backend server with API requests
+├── .env # API keys
+├── package.json # Project dependencies and scripts
 │
 ├── public/
-│   ├── index.html     # Frontend HTML
-│   ├── style.css      # Simple responsive styling
-│   └── script.js      # Frontend JS to fetch data from server
+│ ├── index.html # Frontend HTML
+│ ├── style.css # Simple responsive styling
+│ └── script.js # Frontend JS to fetch data from server
 │
-└── README.md          # This file
+└── README.md # This file
 
 
 
@@ -48,7 +48,7 @@ project/
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/ynagi-1/BAck-end-2
 cd project
 ````
 
@@ -61,14 +61,14 @@ npm install
 3. Create `.env` file in the project root with your API keys:
 
 ```env
-OPENWEATHER_API_KEY=YOUR_OPENWEATHER_KEY
-NEWS_API_KEY=YOUR_NEWS_KEY
+OPENWEATHER_API_KEY=5fb2a5d7f492be83a52a67d9a965ff02
+NEWS_API_KEY=143c61d767b14a50965f11cfe3efdf7f
 ```
 
 4. Start the server:
 
 ```bash
-npm start
+npm server.js
 ```
 
 5. Open the application in your browser:
