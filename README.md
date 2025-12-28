@@ -25,20 +25,17 @@ All API requests are handled **server-side** to keep API keys secure. The applic
 
 ## Project Structure
 
-
-
+```
 BACKEND_2ASS/
-│     
 ├── public/
-│   │
-│   ├── index.html              # interface
-│   ├── style.css               # style
-│   └── script.js               # Frontend (fetch запросы)
-│
-├── .env                        # API key 
-├── service.js                  # Working with the API interface
+│   ├── index.html   # interface
+│   ├── style.css    # style
+│   └── script.js    # Frontend 
+├── service.js       # Working with the API interface
+├── .env             # API key
 ├── package.json
 └── README.md
+```
 
 
 
