@@ -1,10 +1,3 @@
-Конечно! Вот **готовый, понятный и полный README.md**, который полностью соответствует твоему заданию и критериям оценки. Ты можешь просто скопировать этот файл в проект.
-
----
-
-# README.md
-
-```markdown
 # Weather & News App
 
 ## Description
@@ -32,7 +25,7 @@ All API requests are handled **server-side** to keep API keys secure. The applic
 
 ## Project Structure
 
-```
+
 
 project/
 │
@@ -47,9 +40,9 @@ project/
 │
 └── README.md          # This file
 
-````
 
----
+
+
 
 ## Setup Instructions
 
@@ -143,11 +136,5 @@ News
 * Error handling implemented for invalid city or API failure
 * Default fallback news ensures the app always shows headlines
 
-```
 
----
 
-Если хочешь, я могу сразу сделать **готовый вариант README на русском**, чтобы преподавателю было проще читать, с пояснениями по защите.  
-
-Хочешь, чтобы я сделал русский вариант?
-```
