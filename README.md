@@ -110,12 +110,12 @@ http://localhost:3000
 
 ```
 Weather
-Temperature: 6.59°C
-Feels like: 4.04°C
-Description: overcast clouds
-Wind speed: 3.6 m/s
-Country: GB
-Rain (last 3h): 0
+Temperature: -15.03°C
+Feels like: -19.96°C
+Description: clear sky
+Wind speed: 2 m/s
+Country: KZ
+Rain (last 3h): 0 mm
 ```
 
 **News Example:**
@@ -130,13 +130,6 @@ News
 ```
 
 ---
-
-## Notes for Defense
-
-* APIs are **called only on the server**
-* Frontend only requests `/api/weather` and `/api/news`
-* Error handling implemented for invalid city or API failure
-* Default fallback news ensures the app always shows headlines
 
 
 
